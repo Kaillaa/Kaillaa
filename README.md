@@ -23,7 +23,7 @@
  Main skills:
  <br>
   </a>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" /></code>
+<code><img href = "https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" /></code>
 </div>
 <br>
 
