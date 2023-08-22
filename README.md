@@ -17,17 +17,19 @@
 <a href = "mailto:valquiria.medeiroos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kaillaa-medeiros-1148b7289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+<br> 
 
- <div align="center"> 
- ## Main skills:
+<div align="center">
+ Main skills:
  <br>
-
   </a>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" /></code>
 </div>
+<br>
+
 
 <div align="center">
- ## Studying in this moment:
+ Studying in this moment:
  <br>
   </a>
  <!-- icons --> 
