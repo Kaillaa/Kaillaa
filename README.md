@@ -19,9 +19,10 @@
  </div>
 
  ### Main skills:
-
+<div align="left"> 
   </a>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" /></code>
+</div>
 
  ### Studying in this moment:
 
